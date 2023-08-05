@@ -1,4 +1,4 @@
-# Playwright GitHub Action
+# Playwright GitHub Actions
 
 [![tests](https://github.com/microsoft/playwright-github-action/actions/workflows/tests.yml/badge.svg)](https://github.com/microsoft/playwright-github-action/actions/workflows/tests.yml)
 
